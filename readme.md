@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1167235588.svg)](https://doi.org/10.5281/zenodo.20754132)
+
 # I Am No One: Style-Aware Paraphrasing for Text Anonymization
 *Ahmed Sohair Khan, Estrid He, Monica Wachowicz, Elham Naghizade - RMIT University*
 *(Accepted at Interspeech 2026)*

@@ -1,6 +1,6 @@
 # I Am No One: Style-Aware Paraphrasing for Text Anonymization
-*Ahmed Sohair Khan, Estrid He, Monica Wachowicz, Elham Naghizade — RMIT University*
-*Accepted at Interspeech 2026*
+*Ahmed Sohair Khan, Estrid He, Monica Wachowicz, Elham Naghizade - RMIT University*
+*(Accepted at Interspeech 2026)*
 
 ## Quick Start
 

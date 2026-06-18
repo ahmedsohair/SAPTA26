@@ -2,6 +2,8 @@
 *Ahmed Sohair Khan, Estrid He, Monica Wachowicz, Elham Naghizade - RMIT University*
 *(Accepted at Interspeech 2026)*
 
+Supplementary material: [`Supplementary.pdf`](./Supplementary.pdf)
+
 ## Quick Start
 
 ### **Step 0 - Create & Activate Environment**
